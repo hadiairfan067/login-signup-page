@@ -1,0 +1,95 @@
+.content{border: 2px solid black;
+    border: hidden;
+width: 320px;
+height: 322px;
+margin: 100px 20px 20px 20px;
+padding: 31px 31px 31px 31px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.container{display: flex;
+justify-content: space-evenly;}
+.content{color: white;
+    background-color: #1f3353;
+    border-radius: 20px;}
+input{width:300px;
+    height:36px;
+    border-radius: 10px;
+background-color: #152641;
+border: 0.5px solid black;
+margin-top: 5px;
+color: white;
+padding-left: 12px;}
+.c{margin-left: 35px;}
+
+.a button{
+    width: 310px;
+    height: 40px;
+    margin-left: 1.5px;
+
+    background-color: goldenrod;
+    color: white;
+    border: 1px none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600px;
+    cursor: pointer;
+
+}
+
+.m{margin-left: 50px;}
+a{
+    color: goldenrod;
+}
+.n{width: 100% ;
+background-color: black;
+height: 80px;
+
+}
+.u{color: white;
+margin-left: 20px;
+padding: 1px;
+display: flex;}
+.o{
+background-color: black;
+color: white;
+height: 78.5px;
+width: 800px;
+margin-left: 45px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.so:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.ko:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.no:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.do:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.po:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.lo:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.jo:hover{color: goldenrod;font-size: 17.5px;transition: color 0.5s ,font-size 0.5s;}
+.z{background-color: #152641;
+height: 40px;
+margin-left: 50px;
+cursor: pointer;
+color: goldenrod;
+border-radius: 5px;
+width: 80px;
+margin-top: 18px;
+border: 2px solid goldenrod ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.j{background-color:#152641;
+height: 40px;
+margin-left: 50px ;
+cursor: pointer;
+color: goldenrod;
+border-radius: 5px;
+width: 80px;
+margin-top: 18px;
+margin-left: 10px;
+border: 2px solid goldenrod;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+
+
+
+
+
+
